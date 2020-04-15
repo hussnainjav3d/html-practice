@@ -1,0 +1,55 @@
+body {
+	width: 700px;
+
+	font-family: 'Dancing Script', cursive;
+}
+h1 {
+	font-size: 60px;
+	font-family: 'Playfair Display', serif;
+	font-weight: 100;
+	font-style: italic;
+	letter-spacing: 10px;
+	text-decoration: underline overline orange;
+	background-color: orchid;
+	/* display: inline-block; */
+	text-align: center;
+	width: auto;
+}
+p {
+	font-size: 15px;
+	/* line-height: 30px; */
+	/* word-spacing: 12px; */
+}
+p a {
+	font-size: 20px;
+}
+sections {
+	/* font-family: Futura, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
+}
+
+/* boldness of text 400 is normal weigth
+header a {
+	letter-spacing: 10px;
+	/* text-decoration: underline wavy; */
+/* } */
+nav,
+ul,
+li {
+	display: inline-block;
+}
+ul a {
+	font-size: 20px;
+	margin: 0 20px;
+	color: steelblue;
+	text-decoration: none;
+}
+h2 {
+	text-shadow: -2px 5px 10px pink, -4px 10px 10px steelblue;
+}
+#brand {
+	color: slateblue;
+	text-decoration: none;
+	letter-spacing: 10px;
+	text-decoration: overline underline steelblue;
+	font-family: 'Playfair Display', serif;
+}
